@@ -1,4 +1,4 @@
-# E-Commerce Product App
+# The Tech Hub
 
 ## Description
 
